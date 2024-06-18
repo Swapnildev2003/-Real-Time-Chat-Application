@@ -24,5 +24,5 @@ This is a real-time chat application built using HTML, CSS, and JavaScript for t
 
 1. **Clone the repository:**
    ```sh
-   git clone https://github.com/Swapnildev2003/Sentiment-Analysis.git
-   cd Sentiment-Analysis
+   git clone https://github.com/Swapnildev2003/Chat-App.git
+   cd Chat-App
